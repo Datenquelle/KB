@@ -1,2 +1,2 @@
-# KB
-Knowledege Base of datenquelle.ch
+# Knowledgebase
+Knowledege Base of datenquelle.ch (Wissensdatenbank von datenquelle.ch)
