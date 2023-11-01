@@ -28,7 +28,7 @@ Zu diesem Zweck gibt es verschieden Tools (Dienstprogramme). Hier eine kleine Au
 
 Im ersten Schritt wird das Shell-Script erstellt:
 ```
-sudo nano /usr/local/bin/selcect-browser.sh **(chmod nicht vergessen)**
+sudo nano /usr/local/bin/select-browser.sh **(chmod nicht vergessen)**
 
 #!/bin/sh
 
@@ -39,7 +39,7 @@ $BROWSER $\* &
 
 Nun muss noch eine Desktop-Verknüpfung erstellt werden damit das »Programm« vom aus Desktop gestartet werden kann:
 ```
-nano ~/.local/share/applications/selcect-browser.desktop
+nano ~/.local/share/applications/select-browser.desktop
 
 [Desktop Entry]
 Version=1.1
